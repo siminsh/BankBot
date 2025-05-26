@@ -191,11 +191,3 @@ mvn spring-boot:run
 # Docker container logs
 docker-compose logs bankbot
 ```
-
-## 📞 Support
-
-For questions or support, please open an issue in the repository or contact the development team.
-
----
-
-**Note**: This is a development version. Please ensure proper security measures and testing before deploying to production.
